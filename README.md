@@ -43,10 +43,15 @@ Key Insights
 
 
 📉 Accidents per city follow an exponential (long-tail) distribution — a small number of cities account for a disproportionate share of accidents, while most cities report very few.
+<br>
 🏙️ Fewer than 5% of cities report over 1,000 accidents/year, meaning the vast majority of locations see relatively low accident volume.
+<br>
 ❓ Over 1,200 cities have exactly one recorded accident — a data quality/coverage anomaly worth further investigation (possible reporting gaps or geocoding issues).
+<br>
 ⏰ Rush hour effect: Accidents peak sharply between 7–9 AM, consistent with morning commute traffic.
+<br>
 📅 Weekends behave differently: On Sundays, the peak shifts to 12 PM–2 PM, reflecting a different traffic pattern than weekday commuting.
+<br>
 🗺️ Geospatial clustering: Accident density heatmaps reveal strong clustering around major metropolitan areas and highway corridors.
 
 
